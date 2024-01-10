@@ -1,6 +1,6 @@
 # OpenCore Hackintosh Lenovo T430
 
-This repository contains the efi files set up macOS Catalina 10.15.7 on a Lenovo T430 laptop.
+This repository contains the efi files to set up macOS Catalina 10.15.7 on a Lenovo T430 laptop.
 
 ## Compatibility
 
