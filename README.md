@@ -7,7 +7,7 @@ This repository contains the efi files to set up macOS Catalina 10.15.7 on a Len
 - Model: Lenovo T430
 - Display: 1366 x 768
 - Processor: Intel Core i5-3210m
-- Wi-Fi: Intel Corporation Centrino Advanced-N 6205 [Taylor Peak] (wireliess)
+- Wi-Fi: Intel Corporation Centrino Advanced-N 6205 [Taylor Peak] (wireless)
 - Ethernet: Intel Corporation 82579LM Gigabit Network Connection (Lewisville)
 - Audio: nope
 
