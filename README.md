@@ -6,8 +6,9 @@ This repository contains the efi files to set up macOS Catalina 10.15.7 on a Len
 
 - Model: Lenovo T430
 - Display: 1366 x 768
-- Processor: i5-3210m
-- Wi-Fi: some intel alc chip or smth i forgor exact model
+- Processor: Intel Core i5-3210m
+- Wi-Fi: Intel Corporation Centrino Advanced-N 6205 [Taylor Peak] (wireliess)
+- Ethernet: Intel Corporation 82579LM Gigabit Network Connection (Lewisville)
 - Audio: nope
 
 > Note: After finishing the macOS installation, make sure to install the HeliPort application to enable Wi-Fi functionality on your Lenovo T430. HeliPort provides support for Intel Wi-Fi cards on Hackintosh systems.
